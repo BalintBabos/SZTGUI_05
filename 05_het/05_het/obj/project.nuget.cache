@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CclrRloSkeM/aS8BaHkFaObi0NpKMNscGd98lFq10HuxdtQS77rf9hT5e7TokIccBeGUUdvJ16YKYLVRbrIuqA==",
+  "dgSpecHash": "a5I7HS6G+5YuEBHAYRZ3u7cLXnqaoXDFYi6tfZKBcux3Hb77mduRX7mDAts8kBemnDeizoJvqZXN/49SASCrdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bálint\\source\\repos\\BalintBabos\\SZTGUI_05\\05_het\\05_het\\05_het.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bálint\\.nuget\\packages\\communitytoolkit.mvvm\\7.0.1\\communitytoolkit.mvvm.7.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
